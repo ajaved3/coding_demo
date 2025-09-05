@@ -1,2 +1,3 @@
-# coding_demo
-Introduction to coding 
+# Git_demo
+This is my first Git Respository 
+Author - Arooj Javed 
